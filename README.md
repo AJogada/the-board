@@ -3,6 +3,12 @@ Tabuleiro A Jogada
 
 Aqui você encontra o Tabuleiro Oficial do projeto #ajogada baseado nos princípios da [Matriz Espelho](http://www.amazon.com.br/JOGADA-Sabedoria-Jogos-Jovens-Vision%C3%A1rios-ebook/dp/B00HV5M4UG/).
 
+### Versão mais atual
+
+O board atual está na versão 1.2 e pode ser baixado na aba [Releases](https://github.com/AJogada/the-board/releases).
+
+![Tabuleiro AJogada](ajogada_board.png)
+
 ### Como Usar
 
 Para aprender a usar o Board assista este tutorial: https://www.youtube.com/watch?v=pfGFB2HGMPE
