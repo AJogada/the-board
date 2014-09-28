@@ -2,7 +2,7 @@
 
 | Casa        | Ícone           | Autor  | 
 | ------------- |:-------------:| :-----:|
-| Objetivos      | Flag | [Melvin Poppelaars](http://thenounproject.com/term/flag/50114/) |
+| Objetivos      | Flag | [iconsmind.com](http://thenounproject.com/term/flag/50114/) |
 | Estratégia      | Strategy      |   [SuperAtic LABS](http://thenounproject.com/term/strategy/41441/) |
 | Recursos | Playing Cards     |  [Marcela Abbade](http://thenounproject.com/term/playing-cards/7308/) |
 | Métodos | Book | [Diego Naive](http://thenounproject.com/term/book/15474/) |
