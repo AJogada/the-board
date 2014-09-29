@@ -1,3 +1,8 @@
+[![Tarefas a fazer](https://badge.waffle.io/ajogada/the-board.svg?label=to-do&title=A Fazer)](http://waffle.io/ajogada/the-board)
+[![Issues](http://img.shields.io/github/issues/AJogada/the-board.svg)](https://github.com/AJogada/the-board/issues) 
+[![Release](http://img.shields.io/github/release/AJogada/the-board.svg)](https://github.com/AJogada/the-board/releases/latest)
+[![CC-BY-NC-SA](http://img.shields.io/badge/license-cc--by--nc--sa-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Tabuleiro A Jogada
 =========
 
